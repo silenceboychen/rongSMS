@@ -1,6 +1,6 @@
 {
   "name": "rongsms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "容联云短信接口nodejs实现",
   "main": "index.js",
   "scripts": {
