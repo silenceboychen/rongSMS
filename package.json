@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/silenceboychen/rongSMS.git"
+  },
   "keywords": [
     "nodejs",
     "sms"
@@ -15,5 +19,9 @@
   "dependencies": {
     "moment": "^2.18.1",
     "superagent": "^3.6.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/silenceboychen/rongSMS/issues"
+  },
+  "homepage": "https://github.com/silenceboychen/rongSMS#readme"
 }
