@@ -10,12 +10,12 @@
 
 # Installation
 ```
-$ npm install rongSms
+$ npm install rongsms
 ```
 or
 
 ```
-$ yarn add rongSms
+$ yarn add rongsms
 ```
 
 # Usage
