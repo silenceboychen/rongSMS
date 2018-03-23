@@ -1,4 +1,7 @@
 # rongSMS
+
+[![NPM](https://nodei.co/npm/rongsms.png)](https://nodei.co/npm/rongsms/)
+
 一个nodejs实现的容联云发送短信模板模块（云联云官方没有提供nodejs实现的版本），支持node7.6以上版本。支持所有短信模板。<br/>
 一些常用的容联云返回码：<br/>
 
